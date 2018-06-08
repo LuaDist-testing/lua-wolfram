@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = 'lua-wolfram'
 version = '0.2-1'
 
+-- LuaDist source
 source = {
-    url = 'git://github.com/leopiccionia/lua-wolfram.git'
+  tag = "0.2-1",
+  url = "git://github.com/LuaDist-testing/lua-wolfram.git"
 }
+-- Original source
+-- source = {
+--     url = 'git://github.com/leopiccionia/lua-wolfram.git'
+-- }
 
 description = {
     summary = 'A library for Wolfram|Alpha API.',
